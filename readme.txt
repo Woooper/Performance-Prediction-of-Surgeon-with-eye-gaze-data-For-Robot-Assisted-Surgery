@@ -47,6 +47,8 @@ arch
 xgboost
 tensorflow
 
+See the publish here: https://ieeexplore.ieee.org/document/10600939
+
 Useful links:
 https://physionet.org/content/eeg-eye-gaze-data/1.0.0/#files
 https://medium.com/analytics-vidhya/exploratory-data-analysis-eda-cbfc0b0e4922
@@ -58,3 +60,4 @@ https://stats.stackexchange.com/questions/164876/what-is-the-trade-off-between-b
 https://mull-overthing.com/what-is-alpha-and-beta-in-garch/
 https://barnesanalytics.com/garch-models-in-python/#google_vignette
 https://drveri.medium.com/loss-functions-in-keras-python-for-deep-learning-c2e4b1bcdfec
+
